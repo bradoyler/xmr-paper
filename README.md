@@ -4,8 +4,6 @@ Monero (XMR) wallet generator, built with Vue.js
 
 [Try it](https://bradoyler.github.io/xmr-paper/)
 
-![xmr](https://user-images.githubusercontent.com/425966/34000771-2b14fe04-e0bc-11e7-99cc-85767d7e8f6a.gif)
-
 ## Setup for Development
 
 ``` bash
