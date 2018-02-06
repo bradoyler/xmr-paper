@@ -30,7 +30,7 @@
 </template>
 
 <script>
-const walletUtils = require('../lib/mymonero-core-js/monero_utils/monero_wallet_utils')
+const walletUtils = require('mymonero-core-js/monero_utils/monero_wallet_utils')
 
 export default {
   data () {
